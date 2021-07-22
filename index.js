@@ -9,3 +9,4 @@ function wrapAdjective(flair = '*') {
         return `You are ${flair}${adjective}${flair}!`
     }
 }
+wrapAdjective();
